@@ -1,1 +1,3 @@
-# gnoppix-kde-settings
+## gnoppix-kde-settings
+
+Gnoppix KDE settings
