@@ -2,7 +2,7 @@
 ColorScheme=BreezeDark
 
 [Icons]
-Theme=breeze-dark
+Theme=papirus
 
 [KDE]
 AnimationDurationFactor=0.25
